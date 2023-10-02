@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.judul{
+    width: 100%;
+    background-color:#132043;
+    color: white;
+    padding: 20px;
+}
+.subjudul{
+    width: 100%;
+    background-color:rgb(232, 208, 179);
+    padding: 20px;
+}
+.sucrose{
+    position: absolute;
+    margin: 10px;
+}
+.textsucrose{
+    position : relative;
+    left : 200px;
+    margin: 10px;
+}
